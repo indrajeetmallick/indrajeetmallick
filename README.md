@@ -52,23 +52,14 @@ With a background in sociology and a PhD in the field of tourism, I bring a uniq
 
 ### Languages and Tools
 <img align="left" alt="SQL" width="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-
 <img align="left" alt="SPSS" src="https://i.imgur.com/8ZJ17x2.jpg?1" width="100"/>
-
 <img align="left" alt="Microsoft Power BI" width="80" src="https://i.imgur.com/7R1YG8r.jpg" />
-
 <img align="left" alt="R" width="35" src="https://i.imgur.com/lW4ph1O.jpg" />
-
 <img align="left" alt="Tableau" width="60" src="https://i.imgur.com/ClSbTFB.jpg" />
-
 <img align="left" alt="SmartPLS" width="70" src="https://i.imgur.com/AmKUPED.jpg" />
-
 <img align="left" alt="Gephi" width="65" src="https://i.imgur.com/yqSzHx1.jpg" />
-
 <img align="left" alt="VOSviewer" width="70" src="https://i.imgur.com/EZgvbqu.jpg" />
-
 <img align="left" alt="Excel" width="45" src="https://i.imgur.com/bYgTEI5.jpg" />
-
 <br />
 <br />
 <br />
