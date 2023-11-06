@@ -73,4 +73,17 @@ With a background in sociology and a PhD in the field of tourism, I bring a uniq
 <br />
 <br />
 
+---
+
+
 ### Projects
+- [Navigating Tourists' Demand amidst COVID-19: Unravelling the Effects of Reliance and Prevention Measures](https://github.com/indrajeetmallick/Navigating-Tourists-Demand-amidst-COVID-19)
+- [Assessing Tourist Satisfaction Pre- and During the COVID-19 Pandemic: The Influence of General Safety and Prevention Measures at the Destination](https://github.com/indrajeetmallick/Assessing-Tourist-Satisfaction-Pre--and-During-the-COVID-19-Pandemic)
+- [Impact of COVID-19 Restrictions and Fear on Tourist Satisfaction: A Comparative Analysis.](https://github.com/indrajeetmallick/Impact-of-COVID-19-Restrictions-and-Fear-on-Tourist-Satisfaction)
+
+---
+### Publication
+MALLICK, I., Miravet, D., & Gutiérrez, A. (2022). TOURIST SATISFACTION DURING THE PANDEMIC: AN ANALYSIS OF THE EFFECTS OF MEASURES TO PREVENT COVID-19 IN A MEDITERRANEAN COASTAL DESTINATION. GeoJournal of Tourism and Geosites, 45(4spl), 1706–1716. https://doi.org/10.30892/gtg.454spl20-991
+
+
+
